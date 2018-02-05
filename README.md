@@ -1,0 +1,2 @@
+# Looking-for-trends-in-the-stock-s-prices-and-proxies-of-their-patterns
+This project aims at making predictions of stock's prices and provide a confidence interval for those predictions. The latter can give you a feeling of the range of real possible outcomes that an observation in the next time step may take. We are in particular interested to asses whether we can find independent proxies of trends/patterns of the stock's prices.
